@@ -1,1 +1,1 @@
-# flutter_apps
+Repositório para meus exemplos em Flutter (Dart).
